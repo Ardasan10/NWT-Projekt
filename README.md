@@ -2,4 +2,4 @@
 School  Projekt by Arda
 
 Bestehend aus Arduino Code und Python App
-#include Shematik.png
+# include Shematik.png
