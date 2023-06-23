@@ -1,5 +1,5 @@
 # NWT-Projekt
-School  Projekt by Arda
+School  Projekt by Arda, Alex and ze Robin
 
 Bestehend aus Arduino Code und Python App
 
